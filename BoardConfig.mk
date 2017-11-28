@@ -54,6 +54,7 @@ TARGET_PREBUILT_KERNEL := device/xiaomi/sagit/prebuilt/Image.gz-dtb
 # Platform
 TARGET_BOARD_PLATFORM := msm8998
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno540
+TARGET_PLATFORM_DEVICE_BASE := /devices/soc/
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 67108864
