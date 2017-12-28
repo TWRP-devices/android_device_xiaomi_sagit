@@ -22,4 +22,4 @@ Rear Camera  | Dual 12 MP (27mm, f/1.8, OIS 4-axis & 52mm, f/2.6), phase detecti
 
 ## Device picture
 
-![Xiaomi Mi 6](https://xiaomi-mi.com/uploads/CatalogueImage/xiaomi-mi-6-exclusive-edition-6gb128gb-dual-sim-ceramic-black-01_15554_1492602917.jpg "Xiaomi Mi 6 in black")
+![Xiaomi Mi6](https://www.ibuygou.com/images/upfilepic201603/2017419165717188.jpg "Xiaomi Mi6")
